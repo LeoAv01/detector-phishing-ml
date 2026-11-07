@@ -1,0 +1,14 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Datos y modelos: pesados, y los datos contienen correos maliciosos reales
+data/
+modelos/
+
+# Secretos
+.env
+*.key
+*.pem

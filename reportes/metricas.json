@@ -1,0 +1,34 @@
+[
+  {
+    "entrenado_con": "una_fuente",
+    "examen": "interno",
+    "umbral": 0.7935,
+    "recall": 0.9833,
+    "falsos_positivos": 0.009,
+    "pr_auc": 0.9991
+  },
+  {
+    "entrenado_con": "una_fuente",
+    "examen": "desconocido",
+    "umbral": 0.7935,
+    "recall": 0.0782,
+    "falsos_positivos": 0.0666,
+    "pr_auc": 0.2353
+  },
+  {
+    "entrenado_con": "varias_fuentes",
+    "examen": "interno",
+    "umbral": 0.7736,
+    "recall": 0.8631,
+    "falsos_positivos": 0.0083,
+    "pr_auc": 0.9943
+  },
+  {
+    "entrenado_con": "varias_fuentes",
+    "examen": "desconocido",
+    "umbral": 0.7736,
+    "recall": 0.8156,
+    "falsos_positivos": 0.0313,
+    "pr_auc": 0.9142
+  }
+]
